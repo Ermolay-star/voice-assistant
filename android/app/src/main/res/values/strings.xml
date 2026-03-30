@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ассистент</string>
+    <string name="hint_message">Сообщение…</string>
+    <string name="typing">Печатает…</string>
+    <string name="new_chat">Новый чат</string>
+    <string name="choose_voice">Выбор голоса</string>
+</resources>
